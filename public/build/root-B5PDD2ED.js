@@ -27,7 +27,7 @@ import {
 } from "/myst_assets_folder/_shared/chunk-D5NAPBYJ.js";
 
 // app/styles/app.css
-var app_default = "/myst_assets_folder/_assets/app-YVLPXDO2.css";
+var app_default = "/myst_assets_folder/_assets/app-22OBVRHO.css";
 
 // ../../node_modules/thebe-core/dist/lib/thebe-core.css
 var thebe_core_default = "/myst_assets_folder/_assets/thebe-core-F4H442J4.css";
@@ -118,4 +118,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/myst_assets_folder/root-BCBSNTY3.js.map
+//# sourceMappingURL=/myst_assets_folder/root-B5PDD2ED.js.map
