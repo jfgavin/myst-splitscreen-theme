@@ -1,7 +1,7 @@
 import {
   KatexCSS,
   Page
-} from "/myst_assets_folder/_shared/chunk-OUG5GTB7.js";
+} from "/myst_assets_folder/_shared/chunk-C6QUNGSA.js";
 import "/myst_assets_folder/_shared/chunk-CNS63BWT.js";
 import {
   getMetaTagsForArticle,
@@ -48,4 +48,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/myst_assets_folder/routes/_index-J7MOBWH4.js.map
+//# sourceMappingURL=/myst_assets_folder/routes/_index-X63Q6H2Y.js.map
